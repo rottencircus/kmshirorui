@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=kmshirorui&color=blueviolet)
-![Eichi from enstars mentioned](https://cdn.discordapp.com/attachments/1258369754633343029/1278675615276601435/Untitled346_20240829191904.png?ex=66d1aaf7&is=66d05977&hm=0d2b23109d413aeb3f103e70ebad5c30fc7f74dbff7adbc0785d08a8dc7522d5&)
+![Eichi from enstars mentioned](https://cdn.discordapp.com/attachments/1258369754633343029/1278676525289443338/Untitled348_20240829192349.png?ex=66d1abd0&is=66d05a50&hm=cab39686d5ff1dc73a92586d9872c2bbe214f1b861bbd7433990832e531d8040&)
 <!---
 kmshirorui/kmshirorui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
