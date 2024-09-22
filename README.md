@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=kmshirorui&color=blueviolet)
 
 SOCIALS:
-disc - heartzslabyulpilled
-twt - @lilyruie
+- disc: heartzslabyulpilled
+- twt: lilyruie
 
 :: FOR PT! ::
 - 🟢 : Feel free to chat, just whisper though since I might be offtab.
