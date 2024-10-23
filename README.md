@@ -1,2 +1,2 @@
 ![](https://komarev.com/ghpvc/?username=kmshirorui&color=blueviolet)
-remaking rentry ;_;
+- remaking rentry ;_;
